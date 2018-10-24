@@ -1,9 +1,0 @@
-13,05,28
-
-	配置git 与github的链接
-	 	通过C:\Program Files\TortoiseGit\bin 中的puttygen.exe 生产密钥
-	 		详情参见：http://www.cnblogs.com/xiaoxuanzi/archive/2011/07/30/SCM.html
-
-	上传初始代码：wordpress-3.4.1-zh_CN
-
-	安装wordpress 中遇到数据库链接错误，搞半天是用户名没填，应该是root
